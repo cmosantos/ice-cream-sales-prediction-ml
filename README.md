@@ -73,6 +73,8 @@ Predicted Sales: **~190 ice creams**
 ---
 
 ## Project Structure
+
+```
 ice-cream-sales-prediction-ml
 |
 |-- inputs
@@ -88,9 +90,7 @@ ice-cream-sales-prediction-ml
 |
 |-- requirements.txt
 
-
----
-
+```
 ## Experiment Tracking with MLflow
 
 MLflow is used to:
