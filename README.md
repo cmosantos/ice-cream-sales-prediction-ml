@@ -74,20 +74,19 @@ Predicted Sales: **~190 ice creams**
 
 ## Project Structure
 ice-cream-sales-prediction-ml
-
-│
-├── inputs
-│ └── data.txt
-│
-├── model
-│ └── train_model.py
-│
-├── notebook
-│ └── icecream_prediction.ipynb
-│
-├── README.md
-│
-└── requirements.txt
+|
+|-- inputs
+| |-- data.txt
+|
+|-- model
+| |-- train_model.py
+|
+|-- notebook
+| |-- icecream_prediction.ipynb
+|
+|-- README.md
+|
+|-- requirements.txt
 
 
 ---
